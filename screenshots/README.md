@@ -1,9 +1,23 @@
-![9](https://github.com/user-attachments/assets/8ff42fd5-3186-46af-b6f2-343aea54d845)
-![8](https://github.com/user-attachments/assets/85f9547b-c8b2-49f3-953a-a226302a94f3)
-![7](https://github.com/user-attachments/assets/49b1c19f-2075-41fb-80c7-d36881f25071)
-![6](https://github.com/user-attachments/assets/ce9a4a82-6530-4fbe-816a-414b161348b4)
-![5](https://github.com/user-attachments/assets/9ce17012-877f-458f-9ccd-3daa672bf99e)
-![4](https://github.com/user-attachments/assets/f60c0711-f7f9-4e99-8f35-db6773aeba8c)
-![3](https://github.com/user-attachments/assets/28060adf-88c9-4a23-87c4-50758b938b61)
-![2](https://github.com/user-attachments/assets/3be9be63-d383-42ed-a666-6ab01f667628)
-![1](https://github.com/user-attachments/assets/033366bf-6c4b-4cbf-b07b-f54b130af1f3)
+# E-commerce Website – Task 3
+
+This project is an E-commerce Website developed as part of my internship Task-3.
+
+## Features
+- Home Page
+- Product Listing
+- Product Details
+- Add to Cart
+- Checkout Page
+- Responsive Design
+
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+- Python (if backend used)
+
+## Screenshots
+Application output screenshots are available in the screenshots folder.
+
+## Internship
+Developed as part of Internship Task-3.
